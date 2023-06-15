@@ -38,9 +38,10 @@ To use the Image Captioning project, follow these steps:
 
 No additional configuration is required for this project.
 
-##Sample Output
+## Sample Output
 
 ![image](https://github.com/Ineshrao/Image-Captioning/assets/135340797/903a05d3-96b4-4b32-aa0e-e287536a2df2)
+
 ![image](https://github.com/Ineshrao/Image-Captioning/assets/135340797/27bc56d0-33b4-4d82-8164-c755918afbcb)
 
 
